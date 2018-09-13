@@ -22,9 +22,7 @@
 │   ├── Touch.js
 │   └── Touch.native.js
 ├── models              # 公共 dva 模型
-│   ├── counter.js
 │   ├── index.js
-│   └── todo.js
 ├── pages               # react-native 页面
 │   └── IndexPage.js
 ├── routes              # web 页面
